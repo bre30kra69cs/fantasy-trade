@@ -1,1 +1,5 @@
-const main = {};
+const main = () => {
+  console.log('test1');
+};
+
+main();

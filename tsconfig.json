@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "downlevelIteration": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true
+  }
+}
